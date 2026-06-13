@@ -1,109 +1,173 @@
-# 💀 How Cooked Am I?
+# 💀 HOW COOKED AM I?
 
-Ever looked at your syllabus, looked at the exam date, and thought:
+<div align="center">
 
-> yeah... we're cooked
+### 📚 ➜ 💀 ➜ 😭
 
-This app exists for exactly that.
+**The world's most accurate*** exam survival predictor
 
-Enter:
+*accuracy not guaranteed
 
-* Days until exam
-* Syllabus completed
-* Study hours per day
-
-and it'll tell you how bad your situation really is.
-
-No motivation.
-
-No life coaching.
-
-Just the truth.
+</div>
 
 ---
 
-## Features
+## 🤨 What is this?
 
-* Calculates your Cooked Score™
-* Survival probability calculator
-* Random roasts
-* Animated cooked meter
-* Dynamic themes based on your level of panic
-* Grim Reaper mode ☠️
+Have an exam in:
+
+```text
+2 days
+```
+
+Completed:
+
+```text
+7% of the syllabus
+```
+
+Studied:
+
+```text
+1 hour
+```
+
+And somehow still think:
+
+> "nah I'd pass"
+
+This app was made for you.
 
 ---
 
-## Installation
+## 🔥 Features
 
-Clone the repo:
+### 📊 Cooked Meter
+
+Watch your doom unfold in real-time.
+
+```text
+███████████████████░ 95%
+```
+
+---
+
+### 🤖 Fake AI Analysis
+
+Before revealing your fate, the app performs highly advanced calculations:
+
+```text
+Consulting ancient textbooks...
+Scanning panic levels...
+Contacting your future self...
+Calculating survival odds...
+```
+
+Very scientific.
+
+---
+
+### 🎭 Random Roasts
+
+Examples include:
+
+> The textbook misses you.
+
+> Bro is fighting for survival.
+
+> The syllabus can smell your fear.
+
+> Interesting strategy. Have you considered studying?
+
+---
+
+### ☠️ Grim Reaper Mode
+
+For special individuals.
+
+When your score gets high enough:
+
+```text
+☠️ EXAM REAPER HAS ARRIVED ☠️
+```
+
+At this point the app has officially lost faith in you.
+
+---
+
+## 📸 Preview
+
+```text
+┌────────────────────────────┐
+│ HOW COOKED AM I? 💀        │
+│                            │
+│ Days Until Exam: 1         │
+│ Syllabus: 4%              │
+│ Study Hours: 0            │
+│                            │
+│ ☠️ ABSOLUTELY COOKED ☠️   │
+│                            │
+│ Survival Chance: 3%       │
+└────────────────────────────┘
+```
+
+*(replace this with an actual screenshot later)*
+
+---
+
+## 🚀 Running It
 
 ```bash
 git clone https://github.com/yourusername/how-cooked-am-i.git
-```
 
-Go into the project:
-
-```bash
 cd how-cooked-am-i
-```
 
-Run it:
-
-```bash
 python main.py
 ```
 
-Done.
+---
+
+## 🧪 Example Results
+
+| Cooked Score | Status               |
+| ------------ | -------------------- |
+| 0-20         | 😎 Chilling          |
+| 21-40        | 🙂 Slightly Cooked   |
+| 41-60        | 😬 Medium Rare       |
+| 61-80        | 🔥 Well Done         |
+| 81-100       | ☠️ Absolutely Cooked |
 
 ---
 
-## Example
+## ⚠️ Warning
 
-Input:
+This application may cause:
 
-```text
-Days Until Exam: 2
-Syllabus Completed: 8%
-Study Hours: 1
-```
+* sudden self-reflection
+* academic panic
+* emergency study sessions
+* acceptance of reality
 
-Output:
-
-```text
-Cooked Score: 94%
-
-Survival Probability: 6%
-
-☠️ ABSOLUTELY COOKED ☠️
-
-The textbook misses you.
-```
+Use responsibly.
 
 ---
 
-## Built With
+## 🛠️ Built With
 
-* Python
-* Tkinter
-* Poor academic decisions
+🐍 Python
 
----
+🖼️ Tkinter
 
-## Disclaimer
+☕ Late-night coding
 
-This app cannot:
-
-* improve your grades
-* finish your syllabus
-* stop procrastination
-* save you from consequences
-
-Use at your own risk.
+😭 Academic trauma
 
 ---
 
-## Final Words
+<div align="center">
 
-If the app says you're cooked,
+### If the app says you're cooked...
 
-maybe close GitHub and start studying 😭
+## GO STUDY.
+
+</div>
