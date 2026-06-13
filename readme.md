@@ -97,7 +97,7 @@ At this point the app has officially lost faith in you.
 
 ## 📸 Preview
 
-![How Cooked Am I](screenshot.png)
+![How cooked am I](screenshot.png)
 
 ---
 
