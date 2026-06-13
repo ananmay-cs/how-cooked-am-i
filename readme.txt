@@ -1,36 +1,50 @@
 # 💀 HOW COOKED AM I?
 
-> *A highly sophisticated academic prediction engine powered by questionable mathematics, panic, and bad decisions.*
+<div align="center">
+
+### 📚 ➜ 💀 ➜ 😭
+
+**The world's most accurate*** exam survival predictor
+
+*accuracy not guaranteed
+
+</div>
 
 ---
 
-## ☠️ What Is This?
+## 🤨 What is this?
 
-Have an exam in 2 days?
+Have an exam in:
 
-Finished 7% of the syllabus?
+```text
+2 days
+```
 
-Spent 6 hours scrolling reels?
+Completed:
 
-Wondering if you're cooked?
+```text
+7% of the syllabus
+```
 
-**Now you can find out scientifically.**
+Studied:
 
-Just enter:
+```text
+1 hour
+```
 
-* 📅 Days Until Exam
-* 📚 Syllabus Completed (%)
-* ⏰ Study Hours Per Day
+And somehow still think:
 
-And let our state-of-the-art AI (absolutely not AI) determine your fate.
+> "nah I'd pass"
+
+This app was made for you.
 
 ---
 
-## 🧠 Features
+## 🔥 Features
 
-### 🔥 Cooked Meter
+### 📊 Cooked Meter
 
-Watch your doom unfold in real time.
+Watch your doom unfold in real-time.
 
 ```text
 ███████████████████░ 95%
@@ -38,60 +52,46 @@ Watch your doom unfold in real time.
 
 ---
 
-### 🎭 Dynamic Themes
-
-The app changes mood depending on how cooked you are.
-
-🟢 Safe
-
-🟠 Concerning
-
-🔴 Academic Emergency
-
----
-
 ### 🤖 Fake AI Analysis
 
-Before revealing your fate, the system performs advanced calculations:
+Before revealing your fate, the app performs highly advanced calculations:
 
 ```text
 Consulting ancient textbooks...
-Calculating survival odds...
 Scanning panic levels...
 Contacting your future self...
+Calculating survival odds...
 ```
 
-Totally real.
-
-Trust.
+Very scientific.
 
 ---
 
-### 💀 Roast Engine™
+### 🎭 Random Roasts
 
 Examples include:
 
-> "The syllabus can smell your fear."
+> The textbook misses you.
 
-> "The textbook misses you."
+> Bro is fighting for survival.
 
-> "Interesting strategy. Have you considered studying?"
+> The syllabus can smell your fear.
 
-> "Bro is fighting for survival."
+> Interesting strategy. Have you considered studying?
 
 ---
 
 ### ☠️ Grim Reaper Mode
 
-For users whose academic situation has gone beyond salvation.
+For special individuals.
 
-When your Cooked Score reaches dangerous levels:
+When your score gets high enough:
 
 ```text
 ☠️ EXAM REAPER HAS ARRIVED ☠️
 ```
 
-At this point, thoughts and prayers are recommended.
+At this point the app has officially lost faith in you.
 
 ---
 
@@ -101,95 +101,59 @@ At this point, thoughts and prayers are recommended.
 
 ---
 
-## 🚀 Installation
-
-Clone the repository:
+## 🚀 Running It
 
 ```bash
-git clone <your-repo-url>
-```
+git clone https://github.com/yourusername/how-cooked-am-i.git
 
-Move into the folder:
-
-```bash
 cd how-cooked-am-i
-```
 
-Run:
-
-```bash
 python main.py
 ```
 
 ---
 
-## ⚠️ Requirements
+## 🧪 Example Results
 
-* Python 3.x
-* A functioning nervous system
-* Honesty when entering your study stats
-
----
-
-## 🧪 Scientific Accuracy
-
-Our calculations are based on:
-
-* Panic
-* Regret
-* Vibes
-* Advanced academic forecasting
-* A calculator
-
-Results may vary.
+| Cooked Score | Status               |
+| ------------ | -------------------- |
+| 0-20         | 😎 Chilling          |
+| 21-40        | 🙂 Slightly Cooked   |
+| 41-60        | 😬 Medium Rare       |
+| 61-80        | 🔥 Well Done         |
+| 81-100       | ☠️ Absolutely Cooked |
 
 ---
 
-## 🏆 Achievements
+## ⚠️ Warning
 
-If you receive:
+This application may cause:
 
-```text
-🟢 NOT COOKED
-```
-
-Congratulations.
-
-You're probably the kind of person who starts assignments before the deadline.
-
-We do not relate.
-
----
-
-## 📜 Disclaimer
-
-This application cannot:
-
-* Increase your grades
-* Complete your syllabus
-* Stop procrastination
-* Save you from consequences
-
-It can only reveal the truth.
+* sudden self-reflection
+* academic panic
+* emergency study sessions
+* acceptance of reality
 
 Use responsibly.
 
 ---
 
-## 🙏 Final Message
+## 🛠️ Built With
 
-If your score is above 90%:
+🐍 Python
 
-```text
-Lock in.
-```
+🖼️ Tkinter
 
-If your score is below 20%:
+☕ Late-night coding
 
-```text
-Teach us your ways.
-```
+😭 Academic trauma
 
 ---
 
-Made with Python, Tkinter, and academic trauma. 😭🔥
+<div align="center">
+
+### If the app says you're cooked...
+
+## GO STUDY.
+
+</div>
