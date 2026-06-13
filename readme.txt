@@ -97,22 +97,7 @@ At this point, thoughts and prayers are recommended.
 
 ## 📸 Preview
 
-```text
-┌──────────────────────────┐
-│ HOW COOKED AM I? 💀      │
-│                          │
-│ Days Until Exam: 2       │
-│ Syllabus Completed: 5%   │
-│ Study Hours: 1           │
-│                          │
-│ [ Analyze 💀 ]           │
-│                          │
-│ Cooked Score: 97%        │
-│ Survival Chance: 3%      │
-│                          │
-│ ☠️ ABSOLUTELY COOKED ☠️ │
-└──────────────────────────┘
-```
+![How Cooked Am I](screenshot.png)
 
 ---
 
