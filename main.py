@@ -13,6 +13,7 @@ def calculate_cookedness():
     )
 
     cooked_score = max(0, min(100, cooked_score))
+    survival_probability = 100 - int(cooked_score)
 
     if cooked_score <= 20:
         status = "NOT COOKED 😎"
@@ -35,7 +36,11 @@ def calculate_cookedness():
         advice = "The syllabus can smell your fear."
 
     result_label.config(
-        text=f"Cooked Score: {int(cooked_score)}%\n\nStatus: {status}\n\n{advice}"
+    text=
+    f"Cooked Score: {int(cooked_score)}%\n\n"
+    f"Survival Probability: {survival_probability}%\n\n"
+    f"Status: {status}\n\n"
+    f"{advice}"
     )
 
 root = tk.Tk()
